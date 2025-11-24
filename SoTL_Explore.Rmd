@@ -1,0 +1,40 @@
+---
+title: "SoTL Exploring"
+author: "Lorraine Gaudio"
+date: "2025-11-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Data
+
+```{r}
+SoTL_courses <- readRDS("data/combined_courses_20250529.rds")
+```
+
+## Explore Data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
