@@ -3,3 +3,13 @@
 .RData
 .Ruserdata
 /data/
+
+# Internal research work stays local by default.
+# Allow only specifically approved project files as new tracked files.
+/*
+!/.gitignore
+!/SoTL.Rproj
+
+# The working QMD, rendered HTML, Archive, assets, data, caches, and outputs
+# remain ignored. Add a specific reviewed file above only when ready to share.
+# Ignore rules do not untrack files or remove earlier commits.
